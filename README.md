@@ -26,7 +26,7 @@ Browser can also be used to communicate with the server, with the above mentione
 
 #### Cache
 
-After making a request, on browser or from terminal, the files are temporarily stored in the cache directory in the proxy server. The next request for rhe same file will be faster because of this. Can be verified by timing the curl requests on terminal.
+After making a request, on browser or from terminal, the files are temporarily stored in the cache directory in the proxy server. The next request for the same file will be faster because of this. Can be verified by timing the curl requests on terminal.
 
 #### Multi-threading
 
