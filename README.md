@@ -1,5 +1,5 @@
 # Proxy-Server
-A HTTPS proxy server with cache
+A HTTP proxy server with cache
 
 A proxy server with a limited cache ability has been implemented
 * Proxy server runs at http://127.0.0.1:12345
